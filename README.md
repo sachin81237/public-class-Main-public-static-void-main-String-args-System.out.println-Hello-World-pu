@@ -1,8 +1,6 @@
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World");public class Main
-{
 	public static void main(String[] args) {
 var new = ['waveform', 'sprite0', 'sprite1', 'sprite2', 'sprite3', 'sprite4', 'sprite5','sprite'];
 new.forEach(function(elm) {
